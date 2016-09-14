@@ -24,8 +24,10 @@ Video - Introduction to Caravel
 ---------------------------------
 [![Caravel - ](http://img.youtube.com/vi/3Txm_nj_R7M/0.jpg)](http://www.youtube.com/watch?v=3Txm_nj_R7M)
 
-Screenshots
-------------
+Screenshots & Gifs
+------------------
+![img](http://g.recordit.co/lj1VKeigPB.gif)
+![img](http://g.recordit.co/uZggYOdR5g.gif)
 ![img](http://i.imgur.com/x8t30YU.png)
 ![img](http://i.imgur.com/DRCnbq6.png)
 
